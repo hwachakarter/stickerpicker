@@ -1,7 +1,8 @@
 {
   "packs": [
     "vanillavk.json",
-    "biscuitandvanilla.json"
+    "biscuitandvanilla.json",
+    "biskvit_ny.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
